@@ -163,3 +163,1315 @@ Received Import Request.
 Start importing Assets/Simple Garage/Scenes/Garage Scene.unity using Guid(4f5a6f159688b4611b8d1f9a10335aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c2238e33b5f89fdd9d985f330b26a6c') in 0.007208 seconds 
   Import took 0.009906 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001894 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.886 seconds
+Domain Reload Profiling:
+	ReloadAssembly (890ms)
+		BeginReloadAssembly (102ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (735ms)
+			LoadAssemblies (59ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (269ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (257ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (73ms)
+				ProcessInitializeOnLoadAttributes (172ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1497 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 177.6 MB.
+System memory in use after: 177.7 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1978.
+Total: 2.025925 ms (FindLiveObjects: 0.101227 ms CreateObjectMapping: 0.039478 ms MarkObjects: 1.873827 ms  DeleteObjects: 0.010869 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 205.831997 seconds.
+  path: Assets/Simple Garage/Models/3 shelves.fbx
+  artifactKey: Guid(1436e4d03ae5d464aa6a43bf8c6f5743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/3 shelves.fbx using Guid(1436e4d03ae5d464aa6a43bf8c6f5743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4da19a449d34f7063ba006992efc72c5') in 1.284095 seconds 
+  Import took 1.289680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Simple Garage/Models/Garage.fbx
+  artifactKey: Guid(8f9e4da5668113a4da8b4efea4a9499f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Garage.fbx using Guid(8f9e4da5668113a4da8b4efea4a9499f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01e49be957923a38d920a80f0568e715') in 0.866207 seconds 
+  Import took 0.880683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Simple Garage/Models/Locker.fbx
+  artifactKey: Guid(1d5d7e0445e52774e839fe045a67c136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Locker.fbx using Guid(1d5d7e0445e52774e839fe045a67c136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1647e0f632ae5d9b76daf742c683567f') in 0.081460 seconds 
+  Import took 0.083642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Simple Garage/Models/Cone Drill Bits.fbx
+  artifactKey: Guid(3688125de6839734b86ad19d18045e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Cone Drill Bits.fbx using Guid(3688125de6839734b86ad19d18045e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2428508ff75c14381422d20b5ebbc588') in 0.014123 seconds 
+  Import took 0.016000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Simple Garage/Models/Opened locker.fbx
+  artifactKey: Guid(14d2aee51ed41ad4fb466baeb037c9c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Opened locker.fbx using Guid(14d2aee51ed41ad4fb466baeb037c9c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caa61e53c2569aa3273c3616af9a1578') in 0.039533 seconds 
+  Import took 0.041519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Simple Garage/Models/Longboard.fbx
+  artifactKey: Guid(327d01924b7231d47883fe1d588cfbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Longboard.fbx using Guid(327d01924b7231d47883fe1d588cfbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84a690d5005decec1158b6c44ca17d94') in 0.030439 seconds 
+  Import took 0.033021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Simple Garage/Materials/Carpet albedo.mat
+  artifactKey: Guid(4d3949fc3b5686e488e9190dae8cf98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Carpet albedo.mat using Guid(4d3949fc3b5686e488e9190dae8cf98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8658d985b8d26047a7f6d30262871b30') in 0.238538 seconds 
+  Import took 0.241729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Simple Garage/Materials/[0132_LightGray].mat
+  artifactKey: Guid(4e86ca9f8f7424744a4426c0ee5c0145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/[0132_LightGray].mat using Guid(4e86ca9f8f7424744a4426c0ee5c0145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96b7542146ab4d923f503305f96cb9bb') in 0.008093 seconds 
+  Import took 0.010138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Simple Garage/Materials/emmisiive.002.mat
+  artifactKey: Guid(af6db2a9628a7ec4d817bf5afb23d1a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/emmisiive.002.mat using Guid(af6db2a9628a7ec4d817bf5afb23d1a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec19ac579b166633662cb6bec95c5478') in 0.006733 seconds 
+  Import took 0.008788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Simple Garage/Materials/_Silver_.mat
+  artifactKey: Guid(28af6d158fe16b640b963a7062aa7f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/_Silver_.mat using Guid(28af6d158fe16b640b963a7062aa7f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8556adc08155d6f3717c6e25cf7c3f2') in 0.012577 seconds 
+  Import took 0.014986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Simple Garage/Materials/_White_.mat
+  artifactKey: Guid(f5584f8e6d4d4a74abcdc955652a5573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/_White_.mat using Guid(f5584f8e6d4d4a74abcdc955652a5573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc5f31a40a2438b05f62f6b1f1453bcd') in 0.007016 seconds 
+  Import took 0.008956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Simple Garage/Materials/blue light.mat
+  artifactKey: Guid(15e08cb328ceee642a65284046b295fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/blue light.mat using Guid(15e08cb328ceee642a65284046b295fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5394578c7bdf9e30f845bfe55a67d68') in 0.008538 seconds 
+  Import took 0.010459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Simple Garage/Materials/radialspec.mat
+  artifactKey: Guid(808f42e8dc9068a40b61458a436813f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/radialspec.mat using Guid(808f42e8dc9068a40b61458a436813f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d453b3af4582682c178410fc805bc52') in 0.008462 seconds 
+  Import took 0.010470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Simple Garage/Models/Socket.fbx
+  artifactKey: Guid(b91c351aa9cc29d4bb872aff2555bec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Socket.fbx using Guid(b91c351aa9cc29d4bb872aff2555bec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a54a58835428b6db02effa8b7f4bf13') in 0.030898 seconds 
+  Import took 0.032875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Simple Garage/Materials/window.mat
+  artifactKey: Guid(800bffdf45a9391409808efe68d14850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/window.mat using Guid(800bffdf45a9391409808efe68d14850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1879d47413b6b60fcf637a6157459411') in 0.006504 seconds 
+  Import took 0.008385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Simple Garage/Models/Large corner shelf.fbx
+  artifactKey: Guid(855de4ea21d5fe2428038de2e0d0371f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Large corner shelf.fbx using Guid(855de4ea21d5fe2428038de2e0d0371f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dea87e1d9305e9d7febda7547e40cd21') in 0.025359 seconds 
+  Import took 0.027857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Simple Garage/Materials/Ceiling.mat
+  artifactKey: Guid(49d6cde84cf7a9d4aae1d7573eee691d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Ceiling.mat using Guid(49d6cde84cf7a9d4aae1d7573eee691d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e41b11f367abca97158e84eaca1d24b') in 0.018397 seconds 
+  Import took 0.021082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Simple Garage/Materials/[Color_003].mat
+  artifactKey: Guid(6453aa9316b043047a8785e48b115d14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/[Color_003].mat using Guid(6453aa9316b043047a8785e48b115d14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b9834e6a4912c54626b5f11b7bfb7ac') in 0.012289 seconds 
+  Import took 0.014267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Simple Garage/Materials/Longboard albedo.mat
+  artifactKey: Guid(dc1d5ab937e4b0b46833f454d7f1ec28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Longboard albedo.mat using Guid(dc1d5ab937e4b0b46833f454d7f1ec28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76d5aad48e76953f3a40360728cebdbb') in 0.015576 seconds 
+  Import took 0.018064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Simple Garage/Models/Machinery parts.on the floor.fbx
+  artifactKey: Guid(0bbe402466917cb46b2d7bfa99dde560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Machinery parts.on the floor.fbx using Guid(0bbe402466917cb46b2d7bfa99dde560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0763a4c375aaf938c9f846381504a8ee') in 0.021876 seconds 
+  Import took 0.024013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Simple Garage/Models/Hooks.fbx
+  artifactKey: Guid(9d9d603cd8152f544990637a82b4e8a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Hooks.fbx using Guid(9d9d603cd8152f544990637a82b4e8a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9ed18c504897467e73a1f99fac954d2') in 0.014468 seconds 
+  Import took 0.016375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Simple Garage/Models/Carpet.fbx
+  artifactKey: Guid(62e6a133af26dbf498fed56d24553c84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Carpet.fbx using Guid(62e6a133af26dbf498fed56d24553c84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce5156c8ab3cefb14177a86d3bacdab') in 0.014621 seconds 
+  Import took 0.016497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Simple Garage/Materials/Longboard.suspension.mat
+  artifactKey: Guid(48bb87800b8ade9448d5a29d4cc5b84b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Longboard.suspension.mat using Guid(48bb87800b8ade9448d5a29d4cc5b84b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c29d7d7d804547127f23f458fb3d3667') in 0.006604 seconds 
+  Import took 0.008444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Simple Garage/Materials/Wood_Pegboard_White.mat
+  artifactKey: Guid(c53280afd32a04549a49e642b5ec08d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Wood_Pegboard_White.mat using Guid(c53280afd32a04549a49e642b5ec08d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '386585903f444f365242d044391874ba') in 0.009080 seconds 
+  Import took 0.010949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Simple Garage/Models/Sponge.fbx
+  artifactKey: Guid(9d6e34dbf58d5c84c8d5b0859fba43ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Sponge.fbx using Guid(9d6e34dbf58d5c84c8d5b0859fba43ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e16637db9d2248894dbfe8663706f30') in 0.014973 seconds 
+  Import took 0.016969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Simple Garage/Materials/[0136_Charcoal]2.mat
+  artifactKey: Guid(a1bfe3a4435270d4eb36c3f8b89f6215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/[0136_Charcoal]2.mat using Guid(a1bfe3a4435270d4eb36c3f8b89f6215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b1c275ee8f54564d21f1059eba46ea3') in 0.006515 seconds 
+  Import took 0.008698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Simple Garage/Materials/Old conditioner.mat
+  artifactKey: Guid(5abe15de1cb80d14d8c263db80d7100b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Old conditioner.mat using Guid(5abe15de1cb80d14d8c263db80d7100b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a34f40593a397e694526e0b46c535b5c') in 0.007706 seconds 
+  Import took 0.009527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Simple Garage/Materials/[Color_A11].mat
+  artifactKey: Guid(36093744cd3aa9d42907bee716812a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/[Color_A11].mat using Guid(36093744cd3aa9d42907bee716812a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6cf793a6e2f6ac054c86e6d0076396') in 0.013854 seconds 
+  Import took 0.015758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Simple Garage/Models/Exterior.fbx
+  artifactKey: Guid(05a30d1750f15df4e9f9d43f92e779ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Exterior.fbx using Guid(05a30d1750f15df4e9f9d43f92e779ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86425e3e0cae03e381fdc85d9ad548a5') in 0.053575 seconds 
+  Import took 0.058764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Simple Garage/Materials/Locker.black.mat
+  artifactKey: Guid(e14c8162cb2585a499d1ec313c5a8a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Locker.black.mat using Guid(e14c8162cb2585a499d1ec313c5a8a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51e0f76177a478c003bd039980fda9fe') in 0.014038 seconds 
+  Import took 0.016032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Simple Garage/Materials/Metal (bolts).mat
+  artifactKey: Guid(d7d966cb193125649b12f85d35cf4015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Metal (bolts).mat using Guid(d7d966cb193125649b12f85d35cf4015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcf5e7db13ffd2e0784875f788c44b1b') in 0.006730 seconds 
+  Import took 0.008548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Simple Garage/Materials/_DimGray_.mat
+  artifactKey: Guid(633f4506cfcc7e042bbfccb06cefec4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/_DimGray_.mat using Guid(633f4506cfcc7e042bbfccb06cefec4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e7652cc03c3ab0bbcb88d708e9a9c26') in 0.012798 seconds 
+  Import took 0.014625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Simple Garage/Materials/black2.mat
+  artifactKey: Guid(ea1cc228a30b5794d8addf0bf689c990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/black2.mat using Guid(ea1cc228a30b5794d8addf0bf689c990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dd25a5cfbfe128572e1ccbec8ee75fe') in 0.007918 seconds 
+  Import took 0.009847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Simple Garage/Materials/Material.006.mat
+  artifactKey: Guid(e899254591ac85e4dbf5912d9c85199f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Material.006.mat using Guid(e899254591ac85e4dbf5912d9c85199f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8168112eb219f5684e6138555d82236') in 0.008581 seconds 
+  Import took 0.010778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Simple Garage/Materials/Camouflage suitcase relief albedo.mat
+  artifactKey: Guid(04bc125d9fd5ba940983570cb9ae0efc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Camouflage suitcase relief albedo.mat using Guid(04bc125d9fd5ba940983570cb9ae0efc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d9b6d8b42c4f464b94df1dabdb6bf39') in 0.012407 seconds 
+  Import took 0.014732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Simple Garage/Materials/worn_metal4_albedo.mat
+  artifactKey: Guid(115ea869919384c4b8d1450d85ef1a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/worn_metal4_albedo.mat using Guid(115ea869919384c4b8d1450d85ef1a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60bb88bd9913bc98f367214163659f52') in 0.015835 seconds 
+  Import took 0.018331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Simple Garage/Models/White suitcase.002.fbx
+  artifactKey: Guid(ed717cf5527eff748ace6df57db2e2b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/White suitcase.002.fbx using Guid(ed717cf5527eff748ace6df57db2e2b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ccacd14cf92d83da6713e4594683548') in 0.020652 seconds 
+  Import took 0.022924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Simple Garage/Materials/[Color_D03].001.mat
+  artifactKey: Guid(e8d3acfcf45369b47984c04d0b7bebb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/[Color_D03].001.mat using Guid(e8d3acfcf45369b47984c04d0b7bebb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '477db6504ac0b46425a71eff2bebcb37') in 0.008183 seconds 
+  Import took 0.010266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Simple Garage/Models/Big shelf.fbx
+  artifactKey: Guid(d7d3fa1e450020e42b694021662529cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Big shelf.fbx using Guid(d7d3fa1e450020e42b694021662529cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5757392df81c25854888259ce4cf6d7a') in 0.027753 seconds 
+  Import took 0.030381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Simple Garage/Models/Drill Bits.fbx
+  artifactKey: Guid(1e411d3e5babd7941aeb58230965174e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Drill Bits.fbx using Guid(1e411d3e5babd7941aeb58230965174e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a4b9d2eddf1c82489fce0c56b4d5248') in 0.020079 seconds 
+  Import took 0.022002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Simple Garage/Models/Table.fbx
+  artifactKey: Guid(3434c0b847ea9854cbf6ca7ed69f8a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Table.fbx using Guid(3434c0b847ea9854cbf6ca7ed69f8a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14217402ee94cc3bb3d06b67b4dbc071') in 0.040166 seconds 
+  Import took 0.042427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Simple Garage/Models/Shelf.fbx
+  artifactKey: Guid(7316845734f527d4aaba29d50932acf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Shelf.fbx using Guid(7316845734f527d4aaba29d50932acf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f8526ecb4d5cc045c7d2c02b659a4c1') in 0.028277 seconds 
+  Import took 0.030920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Simple Garage/Materials/[_0129_WhiteSmoke_].mat
+  artifactKey: Guid(8833c0fdc1dabeb439f07d1d19c7790f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/[_0129_WhiteSmoke_].mat using Guid(8833c0fdc1dabeb439f07d1d19c7790f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8b3ff571fee7faeeb72495598aef6e5') in 0.007099 seconds 
+  Import took 0.009287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Simple Garage/Materials/_ForestGreen_.mat
+  artifactKey: Guid(282a49ee09057f44aa8fb4a71660a9c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/_ForestGreen_.mat using Guid(282a49ee09057f44aa8fb4a71660a9c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78ae7042bd226f572554320d8774c4d8') in 0.010025 seconds 
+  Import took 0.012001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Simple Garage/Materials/mirrorh.mat
+  artifactKey: Guid(a2a10a5c9140c274abdaf0939ce3279b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/mirrorh.mat using Guid(a2a10a5c9140c274abdaf0939ce3279b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6dd948ddd4e1f2b71f42ebf8eba2a5c') in 0.007049 seconds 
+  Import took 0.009008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Simple Garage/Models/Round Drill Bits.fbx
+  artifactKey: Guid(b8271f886ab9c5b4192fef211129c257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Round Drill Bits.fbx using Guid(b8271f886ab9c5b4192fef211129c257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0724c9225e61e12c4df3bb7f1fa4ab2d') in 0.012884 seconds 
+  Import took 0.014918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Simple Garage/Models/Bench Grinder.fbx
+  artifactKey: Guid(20cc8b5b259c1ce4bbaf0889d74e395a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Bench Grinder.fbx using Guid(20cc8b5b259c1ce4bbaf0889d74e395a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1771b900746cf29b0a0217f2ab496c3c') in 0.034411 seconds 
+  Import took 0.036602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Simple Garage/Materials/[Color_006].mat
+  artifactKey: Guid(edec75fe48008b14a8c365b20463bc85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/[Color_006].mat using Guid(edec75fe48008b14a8c365b20463bc85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc55ffae11feddbd20f241b077488e1e') in 0.007332 seconds 
+  Import took 0.009374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Simple Garage/Models/Drilling machine.fbx
+  artifactKey: Guid(90c9e6438ec56844bab86842983559bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Drilling machine.fbx using Guid(90c9e6438ec56844bab86842983559bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c029f2e0c8b5cf2e44cbbd249b19b061') in 0.056657 seconds 
+  Import took 0.060075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Simple Garage/Materials/[Color A08]7.mat
+  artifactKey: Guid(1ff404bc24c6a784c99c612c29d52066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/[Color A08]7.mat using Guid(1ff404bc24c6a784c99c612c29d52066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0833d0b35e94457106ae9bc4913461d7') in 0.007428 seconds 
+  Import took 0.009378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Simple Garage/Materials/_Gray Glass_.mat
+  artifactKey: Guid(8f75634a104480a4d8122b5b4435a38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/_Gray Glass_.mat using Guid(8f75634a104480a4d8122b5b4435a38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b38c59f01bd09432091d5ea3723f49c6') in 0.007837 seconds 
+  Import took 0.009822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Simple Garage/Models/Saw.fbx
+  artifactKey: Guid(bc7f2b2496b7d5e42aeff231458e580d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Saw.fbx using Guid(bc7f2b2496b7d5e42aeff231458e580d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68f6501d78d32b1a9a9587b96466ee7f') in 0.048747 seconds 
+  Import took 0.051789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Simple Garage/Materials/Camouflage suitcase albedo.mat
+  artifactKey: Guid(9cdd0db4b1331894a9c2a03068bf2e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Camouflage suitcase albedo.mat using Guid(9cdd0db4b1331894a9c2a03068bf2e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '996e5b06f045941937e75c2e12557771') in 0.051581 seconds 
+  Import took 0.054364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001484 seconds.
+  path: Assets/Simple Garage/Models/Machinery parts.mirror.fbx
+  artifactKey: Guid(681be740132a8364fb1e414a4988c47d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Machinery parts.mirror.fbx using Guid(681be740132a8364fb1e414a4988c47d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0ddf4c7ee8f0a3c033ba658c74ab7ec') in 0.043873 seconds 
+  Import took 0.046788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Simple Garage/Models/Small stool.fbx
+  artifactKey: Guid(e78370bd94200a34792132460e850825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Small stool.fbx using Guid(e78370bd94200a34792132460e850825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c498e3c59420c82f1f96120c8c9b793') in 0.014381 seconds 
+  Import took 0.016305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Simple Garage/Models/Camouflage suitcase with relief.fbx
+  artifactKey: Guid(e5c2a75ffe7427a4d92ae1a6dc53c2ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Camouflage suitcase with relief.fbx using Guid(e5c2a75ffe7427a4d92ae1a6dc53c2ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '628171b594658a4ef14d36548babf315') in 0.024435 seconds 
+  Import took 0.026454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Simple Garage/Models/Hose.fbx
+  artifactKey: Guid(d2743396a59a2dc43baa7a2d5414c1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Hose.fbx using Guid(d2743396a59a2dc43baa7a2d5414c1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e9edf271bfa24669d69b6042b69690c') in 0.020390 seconds 
+  Import took 0.022627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Simple Garage/Materials/Longboard.wheels.001.mat
+  artifactKey: Guid(38c856b4ea183a0449a7f01630d0ca78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Longboard.wheels.001.mat using Guid(38c856b4ea183a0449a7f01630d0ca78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4303d1d74b54cee776b13ec56bfcf0b6') in 0.009158 seconds 
+  Import took 0.011357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Simple Garage/Models/White suitcase.001.fbx
+  artifactKey: Guid(8e014b5c76aeed444b3aa92be71ef533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/White suitcase.001.fbx using Guid(8e014b5c76aeed444b3aa92be71ef533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b2f357787e1a0af3f5016042a9bb844') in 0.018368 seconds 
+  Import took 0.020326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Simple Garage/Materials/_Charcoal_.mat
+  artifactKey: Guid(9d6913bc815c98847b3f5446ba52a72e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/_Charcoal_.mat using Guid(9d6913bc815c98847b3f5446ba52a72e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd68d2a0aef98537777d65b5fdf242209') in 0.009377 seconds 
+  Import took 0.011449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Simple Garage/Models/Machinery parts.brake disc.fbx
+  artifactKey: Guid(19448b809c61d0c4b9c99cfd024468f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Machinery parts.brake disc.fbx using Guid(19448b809c61d0c4b9c99cfd024468f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e8356a67f98a0dfd4ab66b336c1af43') in 0.025214 seconds 
+  Import took 0.027258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Simple Garage/Materials/Material.007.mat
+  artifactKey: Guid(de6afbbedc203544d9754ffcb6faed53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Material.007.mat using Guid(de6afbbedc203544d9754ffcb6faed53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b63bf8636f0a36594b8095a636a319b9') in 0.006864 seconds 
+  Import took 0.008847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Simple Garage/Materials/Metal_Corrogated_Shiny.mat
+  artifactKey: Guid(3101f5fcaa024284ba283f278804f7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Metal_Corrogated_Shiny.mat using Guid(3101f5fcaa024284ba283f278804f7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc52ed3f0976191b04f257482a4583eb') in 0.007956 seconds 
+  Import took 0.010191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Simple Garage/Materials/Garage door albedo.mat
+  artifactKey: Guid(7ef4fb80a8e8ba548aacc1d07b7b1b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Garage door albedo.mat using Guid(7ef4fb80a8e8ba548aacc1d07b7b1b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '331ebf5ba6f3f0781f568f53f1de53b7') in 0.007826 seconds 
+  Import took 0.009937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Simple Garage/Materials/[0036_BurlyWood].mat
+  artifactKey: Guid(b233ae0ecddf1804ab2ba09bd2e0ccc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/[0036_BurlyWood].mat using Guid(b233ae0ecddf1804ab2ba09bd2e0ccc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cc4b4c4e4d8d36b204afb95862e2533') in 0.008966 seconds 
+  Import took 0.011043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Simple Garage/Models/Clamps.fbx
+  artifactKey: Guid(f9176ded31cec7b49a01685aa5d28e07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Clamps.fbx using Guid(f9176ded31cec7b49a01685aa5d28e07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfa0e6ecf9cd28c0c58dafceac6ba4e1') in 0.022139 seconds 
+  Import took 0.024201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Simple Garage/Materials/[Color_009].mat
+  artifactKey: Guid(55b8eb16ac31e2d419b8cf5d4b960ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/[Color_009].mat using Guid(55b8eb16ac31e2d419b8cf5d4b960ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0ab06a903d3c34eb18197c957bd3bf2') in 0.006988 seconds 
+  Import took 0.008800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Simple Garage/Materials/emmisiive.001.mat
+  artifactKey: Guid(36900c0f5e1028f40b2747479ead4db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/emmisiive.001.mat using Guid(36900c0f5e1028f40b2747479ead4db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0b228dec132b6acd2465da0dc4e5e09') in 0.009666 seconds 
+  Import took 0.011979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Simple Garage/Materials/Dark Grey.mat
+  artifactKey: Guid(3df0fcd10d7adee40b1d8bf4a642cd48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Dark Grey.mat using Guid(3df0fcd10d7adee40b1d8bf4a642cd48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0caa1a8464b89c72128db76e03e9cd6d') in 0.006521 seconds 
+  Import took 0.008643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Simple Garage/Materials/White.mat
+  artifactKey: Guid(451e47f19e41f334698dbf2c743eeaee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/White.mat using Guid(451e47f19e41f334698dbf2c743eeaee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '491717a4c0a77dd8dd42412b25cf7515') in 0.006345 seconds 
+  Import took 0.008239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Simple Garage/Materials/[Color_C14].mat
+  artifactKey: Guid(8f2b7ac5ceaeadc44838c40dd161480e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/[Color_C14].mat using Guid(8f2b7ac5ceaeadc44838c40dd161480e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89591f06bbbb41ab9740015bf8a0b33d') in 0.007048 seconds 
+  Import took 0.009031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Simple Garage/Materials/body.mat
+  artifactKey: Guid(cfa013396b64c1a43af405a116941549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/body.mat using Guid(cfa013396b64c1a43af405a116941549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c395893ff415fab8f772277620820229') in 0.006774 seconds 
+  Import took 0.008711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Simple Garage/Materials/Wood059_2K_Color_bake.mat
+  artifactKey: Guid(a7e59ec9ef1286f45b5300599fb0f18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Wood059_2K_Color_bake.mat using Guid(a7e59ec9ef1286f45b5300599fb0f18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3c2b06354b3313d9871d11422216dea') in 0.018416 seconds 
+  Import took 0.021056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Simple Garage/Materials/Terrazzo.mat
+  artifactKey: Guid(880b05acad5089b45aea2a94e209059d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Terrazzo.mat using Guid(880b05acad5089b45aea2a94e209059d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fe24d2b78fcac5c0da5580b8ba341fa') in 0.007979 seconds 
+  Import took 0.009897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Simple Garage/Materials/Floor.mat
+  artifactKey: Guid(62c006922a11952419e8ee50d28443de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Floor.mat using Guid(62c006922a11952419e8ee50d28443de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f4eb2a1d024e90a4bd03a8acc621c9c') in 0.018807 seconds 
+  Import took 0.021334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Simple Garage/Models/Drill part.fbx
+  artifactKey: Guid(f06171d029e9da44ba45d3270f5d5fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Drill part.fbx using Guid(f06171d029e9da44ba45d3270f5d5fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d5a7889c9f08306a770b6134111074a') in 0.021666 seconds 
+  Import took 0.023649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Simple Garage/Models/Black suitcase.fbx
+  artifactKey: Guid(c5c9be30d805efd40b01a9be27ef4b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Black suitcase.fbx using Guid(c5c9be30d805efd40b01a9be27ef4b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e3403400c67e5feb8bc3cc84bfd8902') in 0.018745 seconds 
+  Import took 0.020862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Simple Garage/Materials/_Gray6_.mat
+  artifactKey: Guid(a21417e157ac92141a0b12b3c32f207f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/_Gray6_.mat using Guid(a21417e157ac92141a0b12b3c32f207f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed8629e7fa532e6293d3876a40bde710') in 0.007450 seconds 
+  Import took 0.009436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Simple Garage/Models/Machinery parts.Shock Absorber.fbx
+  artifactKey: Guid(590bc76de0fd52e48ba7be1edb36a5b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Machinery parts.Shock Absorber.fbx using Guid(590bc76de0fd52e48ba7be1edb36a5b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2de6fac7a285d48ed6b0058bc2977788') in 0.014365 seconds 
+  Import took 0.016347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Simple Garage/Materials/_Red_.mat
+  artifactKey: Guid(cddb471e6547e60479172832501a77c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/_Red_.mat using Guid(cddb471e6547e60479172832501a77c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8d52dfb90c66f2494aeece5d786bb00') in 0.006523 seconds 
+  Import took 0.008373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Simple Garage/Models/Red suitcase.fbx
+  artifactKey: Guid(317ca1a0c8a7425428605b4f094ed3cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Red suitcase.fbx using Guid(317ca1a0c8a7425428605b4f094ed3cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07c6ee23b64746f716c84e60709ffd29') in 0.021004 seconds 
+  Import took 0.022954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Simple Garage/Materials/_LightSlateGray_.mat
+  artifactKey: Guid(02b55bddfc547044b86c0dbf448cbf2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/_LightSlateGray_.mat using Guid(02b55bddfc547044b86c0dbf448cbf2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40b243fac00abb81a97da58cdc66df61') in 0.007088 seconds 
+  Import took 0.009101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Simple Garage/Models/Hook cylinder type.fbx
+  artifactKey: Guid(8b60d343f08319d4e9a2b179a6b42b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Hook cylinder type.fbx using Guid(8b60d343f08319d4e9a2b179a6b42b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bbd0de83e2b1b3446ecb8842861ea53') in 0.014502 seconds 
+  Import took 0.016615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Simple Garage/Materials/[Color_008].mat
+  artifactKey: Guid(46ad52cea5356844da7e50bd859b8fbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/[Color_008].mat using Guid(46ad52cea5356844da7e50bd859b8fbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '773ae5484e580492369d5149e955e518') in 0.012556 seconds 
+  Import took 0.014470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Simple Garage/Materials/Wood.003 albedo.mat
+  artifactKey: Guid(a95576eaba45913448e2a05b86198535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Wood.003 albedo.mat using Guid(a95576eaba45913448e2a05b86198535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54207e1687bb511b5570eb20966e2ccf') in 0.017237 seconds 
+  Import took 0.019883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Simple Garage/Models/Camouflage suitcase.fbx
+  artifactKey: Guid(0110015a6c2dc6a4f922574f1e6115cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Camouflage suitcase.fbx using Guid(0110015a6c2dc6a4f922574f1e6115cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa2600b0f3d5e9d708b2dc72913018dc') in 0.021817 seconds 
+  Import took 0.023917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Simple Garage/Models/Ridgid oscillating belt sander.fbx
+  artifactKey: Guid(6bf857a61a1ede54ab81a1649be6c9e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Ridgid oscillating belt sander.fbx using Guid(6bf857a61a1ede54ab81a1649be6c9e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7899abf6b1d0deaf97d5c0a5e81f9dbf') in 0.033484 seconds 
+  Import took 0.035648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Simple Garage/Materials/Locker.white.mat
+  artifactKey: Guid(c0f4f06e01447864a8f235142ec5acf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Locker.white.mat using Guid(c0f4f06e01447864a8f235142ec5acf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c81318a70fbcb08057a1ae6071f52023') in 0.013776 seconds 
+  Import took 0.015605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Simple Garage/Materials/Black-4.mat
+  artifactKey: Guid(32c330ba2dea66c49a868b2037522165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Black-4.mat using Guid(32c330ba2dea66c49a868b2037522165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eee40a81bbe5040dc7ded1c02c0e3b5') in 0.006906 seconds 
+  Import took 0.008728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Simple Garage/Models/White suitcase.fbx
+  artifactKey: Guid(9da4e6e9dbea8e8498df7878310535ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/White suitcase.fbx using Guid(9da4e6e9dbea8e8498df7878310535ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '941a52110728a38497008be89a40ee3f') in 0.018586 seconds 
+  Import took 0.020660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Simple Garage/Materials/_Black_.mat
+  artifactKey: Guid(6bb0646f945fbe54f8d856b346e6c2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/_Black_.mat using Guid(6bb0646f945fbe54f8d856b346e6c2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01c61a38357705731162d66397bea5d0') in 0.009374 seconds 
+  Import took 0.011408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Simple Garage/Models/Garage door.fbx
+  artifactKey: Guid(0ef15bbf0c3f08646b1812c663767007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Garage door.fbx using Guid(0ef15bbf0c3f08646b1812c663767007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0052387a15f49586ac9eee4f4df9425') in 0.015382 seconds 
+  Import took 0.017314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Simple Garage/Materials/[Color H08].mat
+  artifactKey: Guid(068ccec6c0b7c534a90dfff20710c38c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/[Color H08].mat using Guid(068ccec6c0b7c534a90dfff20710c38c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71d2a6933f2bd0d8b68b885b1044d3b3') in 0.007033 seconds 
+  Import took 0.008863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Simple Garage/Materials/[Color_007].mat
+  artifactKey: Guid(81d40aa4a64960c48900fd4a43890725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/[Color_007].mat using Guid(81d40aa4a64960c48900fd4a43890725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c78802bf0ae68456a8235f2ef2d389') in 0.012705 seconds 
+  Import took 0.014693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Simple Garage/Materials/_16.mat
+  artifactKey: Guid(e442faa0dbf483c4ca6d09db3a5156c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/_16.mat using Guid(e442faa0dbf483c4ca6d09db3a5156c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00f9bcf2353bd42e780c877755d30501') in 0.009154 seconds 
+  Import took 0.011153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Simple Garage/Materials/light emission no.mat
+  artifactKey: Guid(9a37adedc100c1749b8f3b355c0eb6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/light emission no.mat using Guid(9a37adedc100c1749b8f3b355c0eb6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5e5f1d8bb7e28b22e6aeb0b9d631718') in 0.008202 seconds 
+  Import took 0.010129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Simple Garage/Materials/Locker.metal.mat
+  artifactKey: Guid(ea68a7f6198c41840b4110b5c4b0411f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Locker.metal.mat using Guid(ea68a7f6198c41840b4110b5c4b0411f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1765e96b948f35d15f25bc32455f5652') in 0.006826 seconds 
+  Import took 0.008719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Simple Garage/Materials/[Color_I08].mat
+  artifactKey: Guid(87a8b9a6a53562c499d7fc6fb4defaff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/[Color_I08].mat using Guid(87a8b9a6a53562c499d7fc6fb4defaff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6de2426777bf25693993f638442718c') in 0.006828 seconds 
+  Import took 0.008682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Simple Garage/Materials/_6.mat
+  artifactKey: Guid(592e40746ca9cf944839b21915d3e414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/_6.mat using Guid(592e40746ca9cf944839b21915d3e414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a85efc3831cc213e779e213586e7e82d') in 0.006619 seconds 
+  Import took 0.008892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Simple Garage/Models/Drill Bits.002.fbx
+  artifactKey: Guid(a888387dbf4b8ad4bab40d1b748343ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Drill Bits.002.fbx using Guid(a888387dbf4b8ad4bab40d1b748343ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5be0b0cb7596c17a9303dfaaa0872261') in 0.019562 seconds 
+  Import took 0.021647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Simple Garage/Materials/Small stool albedo.mat
+  artifactKey: Guid(df3619f9104793a45a4388dddf4291ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Small stool albedo.mat using Guid(df3619f9104793a45a4388dddf4291ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc648b557620df86270abfa6888bf758') in 0.010920 seconds 
+  Import took 0.013076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Simple Garage/Models/Air conditioner.fbx
+  artifactKey: Guid(ff9efb7f0f6706e49a111b5be7d18983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Air conditioner.fbx using Guid(ff9efb7f0f6706e49a111b5be7d18983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91fa92ce320aae72229e3aa62ce6da3f') in 0.016232 seconds 
+  Import took 0.018251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Simple Garage/Models/Drill Bits.001.fbx
+  artifactKey: Guid(837a64de2d8101645bffba32c0c91cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Drill Bits.001.fbx using Guid(837a64de2d8101645bffba32c0c91cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e94a7a7228f23bcad36b7cba46e749b8') in 0.012741 seconds 
+  Import took 0.014706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Simple Garage/Models/Between locker.fbx
+  artifactKey: Guid(64435e7526de49842977ce7a807578f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Between locker.fbx using Guid(64435e7526de49842977ce7a807578f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '946cf783d7fdc7aace926d8530e13c55') in 0.013960 seconds 
+  Import took 0.015970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Simple Garage/Materials/_Brown_.mat
+  artifactKey: Guid(4edab6e8f5452fc419febcf79e0fe4f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/_Brown_.mat using Guid(4edab6e8f5452fc419febcf79e0fe4f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51b611f9bfccb0b9ae169210f8a30997') in 0.007892 seconds 
+  Import took 0.009734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Simple Garage/Materials/[Color B05]11.mat
+  artifactKey: Guid(f4623970be968b642b5426c74459ad83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/[Color B05]11.mat using Guid(f4623970be968b642b5426c74459ad83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30a363aeed20ad4ad91aac22476631cf') in 0.007096 seconds 
+  Import took 0.008849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Simple Garage/Materials/Longboard.wheels.mat
+  artifactKey: Guid(3038a907f8152d646a6777016ad52194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Longboard.wheels.mat using Guid(3038a907f8152d646a6777016ad52194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c495f4f665917a79a80ff1cd2dd57d1') in 0.006444 seconds 
+  Import took 0.008278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Simple Garage/Materials/light emission no.001.mat
+  artifactKey: Guid(65ec10b3ef35a394c9054456fd386643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/light emission no.001.mat using Guid(65ec10b3ef35a394c9054456fd386643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c56a1c319f3ce65adbabde3f7eb706f6') in 0.010405 seconds 
+  Import took 0.012431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Simple Garage/Materials/2K-false_ceiling_basecolor.mat
+  artifactKey: Guid(26bf5fcbcd484234398dc4274abd4e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/2K-false_ceiling_basecolor.mat using Guid(26bf5fcbcd484234398dc4274abd4e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1182b9d3e2d7f34276b10a53ca1b0ce1') in 0.019403 seconds 
+  Import took 0.021946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Simple Garage/Materials/[Color_A01].mat
+  artifactKey: Guid(04497a13553e04046aa5be6e84c08ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/[Color_A01].mat using Guid(04497a13553e04046aa5be6e84c08ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77dc2713712053baaa3e29bf751b98f6') in 0.012515 seconds 
+  Import took 0.014397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Simple Garage/Materials/Exterior_Exterior_pbr_diffuse.mat
+  artifactKey: Guid(340f75f24897b0d4f8ff67aa590e1319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/Exterior_Exterior_pbr_diffuse.mat using Guid(340f75f24897b0d4f8ff67aa590e1319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0303d39ce9bf707c650e2b51f05b921c') in 0.046416 seconds 
+  Import took 0.051178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Simple Garage/Materials/[Color_B01].mat
+  artifactKey: Guid(f2830af80c5ff224aa28e506d21cb9cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/[Color_B01].mat using Guid(f2830af80c5ff224aa28e506d21cb9cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efc8fe98c1c605bb05a652c89d610782') in 0.013827 seconds 
+  Import took 0.015894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Simple Garage/Materials/2K-tiling_44_basecolor.mat
+  artifactKey: Guid(1d0c85a40adbb0e41be6404db12b98c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Materials/2K-tiling_44_basecolor.mat using Guid(1d0c85a40adbb0e41be6404db12b98c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32a78699d4d5b2a3c9f880d2d4f424a4') in 0.019441 seconds 
+  Import took 0.021966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Simple Garage/Models/Drill bits Lying.fbx
+  artifactKey: Guid(74efa1a00e4a4474fbd004e81c5ee237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Models/Drill bits Lying.fbx using Guid(74efa1a00e4a4474fbd004e81c5ee237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '604f87f3cc4580f5cd448d2bfb1a2d57') in 0.013608 seconds 
+  Import took 0.015541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.805479 seconds.
+  path: Assets/Simple Garage/Prefabs/3 shelves.prefab
+  artifactKey: Guid(f7ac1c8b5baad0943aa4415c859b8d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/3 shelves.prefab using Guid(f7ac1c8b5baad0943aa4415c859b8d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e62b3e862f374f4b72765e2e5f2118f') in 0.129069 seconds 
+  Import took 0.133896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Simple Garage/Prefabs/Hooks.prefab
+  artifactKey: Guid(62adf762c3778cc40aa4490fd5057a5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Hooks.prefab using Guid(62adf762c3778cc40aa4490fd5057a5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afb473a39e7154477596ecab0cf0f903') in 0.006602 seconds 
+  Import took 0.008486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Simple Garage/Prefabs/Saw.prefab
+  artifactKey: Guid(c87c6802548aede4fad8ad09f0820b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Saw.prefab using Guid(c87c6802548aede4fad8ad09f0820b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb7f4c17189e8ab09bf00161c23cee3e') in 0.020993 seconds 
+  Import took 0.024020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Simple Garage/Prefabs/Drill Bits.002.prefab
+  artifactKey: Guid(275bc328fcd1eb04fb72cc009cabfce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Drill Bits.002.prefab using Guid(275bc328fcd1eb04fb72cc009cabfce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e09b8dfb2814aca0fd59f239ca322c15') in 0.006294 seconds 
+  Import took 0.008198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Simple Garage/Prefabs/Hose.prefab
+  artifactKey: Guid(44aa9d7738e2750459b0b10bad9c6e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Hose.prefab using Guid(44aa9d7738e2750459b0b10bad9c6e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f08e79dd81dd33cbfae562cdc5856c60') in 0.011022 seconds 
+  Import took 0.012982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Simple Garage/Prefabs/Ridgid oscillating belt sander.prefab
+  artifactKey: Guid(f6607d2d3194deb45bbeef76acadddfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Ridgid oscillating belt sander.prefab using Guid(f6607d2d3194deb45bbeef76acadddfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7fb6581ded13cd67123130f53ef0530') in 0.011861 seconds 
+  Import took 0.013833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Simple Garage/Prefabs/Table.prefab
+  artifactKey: Guid(b1b5b05bf2306ed4a9ae82648db8570c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Table.prefab using Guid(b1b5b05bf2306ed4a9ae82648db8570c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b13d52e3358415de15c4b9eb47012c63') in 0.024104 seconds 
+  Import took 0.026564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Simple Garage/Prefabs/White suitcase.001.prefab
+  artifactKey: Guid(2fb2185719527a940822925e018c4306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/White suitcase.001.prefab using Guid(2fb2185719527a940822925e018c4306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97b91ad4472d3a24d51e38e50f2d2ac3') in 0.011369 seconds 
+  Import took 0.013512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Simple Garage/Prefabs/Camouflage suitcase.prefab
+  artifactKey: Guid(af072bdacb2a08544a0bf87b1461bef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Camouflage suitcase.prefab using Guid(af072bdacb2a08544a0bf87b1461bef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e08619ea687260b3541a95106387d5ed') in 0.010948 seconds 
+  Import took 0.012784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Simple Garage/Prefabs/Red suitcase.prefab
+  artifactKey: Guid(3c038440dce791140a9e285b50533002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Red suitcase.prefab using Guid(3c038440dce791140a9e285b50533002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5a7ea195dbeaf058aec9b60eabf7adc') in 0.011320 seconds 
+  Import took 0.013212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Simple Garage/Prefabs/Small stool.prefab
+  artifactKey: Guid(69ee440018931c84785234bdf576f469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Small stool.prefab using Guid(69ee440018931c84785234bdf576f469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edd5de0a1268257384ce18198fbd2d07') in 0.007393 seconds 
+  Import took 0.009431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Simple Garage/Prefabs/Exterior.prefab
+  artifactKey: Guid(92f1368635be630459dee288eec9f065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Exterior.prefab using Guid(92f1368635be630459dee288eec9f065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dab3954ef56b803953aa9ddda5c8846') in 0.044082 seconds 
+  Import took 0.049040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Simple Garage/Prefabs/Large corner shelf.prefab
+  artifactKey: Guid(0c3e5b9824c9a8741b906445f1fb054b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Large corner shelf.prefab using Guid(0c3e5b9824c9a8741b906445f1fb054b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a08994a04057f8ccd08b7fea02928439') in 0.014802 seconds 
+  Import took 0.017388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Simple Garage/Prefabs/Round Drill Bits.prefab
+  artifactKey: Guid(ff10122fa2af38e47ab81e33cd4aba74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Round Drill Bits.prefab using Guid(ff10122fa2af38e47ab81e33cd4aba74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e88137e6fb1ac566e02d5f05c35482e') in 0.005659 seconds 
+  Import took 0.007511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Simple Garage/Prefabs/Clamps.prefab
+  artifactKey: Guid(30760f0ad9c258b46961c1bae456d937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Clamps.prefab using Guid(30760f0ad9c258b46961c1bae456d937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c719d45ea3c13d6299afb4e7673045be') in 0.011455 seconds 
+  Import took 0.013369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Simple Garage/Prefabs/Locker.prefab
+  artifactKey: Guid(eed08d65ebec93748aba22e7a8f97784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Locker.prefab using Guid(eed08d65ebec93748aba22e7a8f97784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9187c35b45cf9c833a892d5bd9ebc9') in 0.010775 seconds 
+  Import took 0.012727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Simple Garage/Prefabs/Hook cylinder type.prefab
+  artifactKey: Guid(cc3feee37faa6e34e88487c92863d95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Hook cylinder type.prefab using Guid(cc3feee37faa6e34e88487c92863d95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60c9dd2973ba396be9572ec9dd73adfc') in 0.005967 seconds 
+  Import took 0.007847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Simple Garage/Prefabs/Longboard.prefab
+  artifactKey: Guid(81aff74e5226cb34d931dd5f35632af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Longboard.prefab using Guid(81aff74e5226cb34d931dd5f35632af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c58f2ada625f43a8f52fa7827056493') in 0.015283 seconds 
+  Import took 0.018085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Simple Garage/Prefabs/White suitcase.002.prefab
+  artifactKey: Guid(aea0cd7025a136945a1b0ac84e6f35a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/White suitcase.002.prefab using Guid(aea0cd7025a136945a1b0ac84e6f35a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55b5eab8f631b37a0673863486b74aa5') in 0.011480 seconds 
+  Import took 0.013657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Simple Garage/Prefabs/Machinery parts.on the floor.prefab
+  artifactKey: Guid(855c802cd9c4987429f5a0061ba6ed4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Machinery parts.on the floor.prefab using Guid(855c802cd9c4987429f5a0061ba6ed4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be5d0f51b7a73a80019ed36d0f2f9ce') in 0.006259 seconds 
+  Import took 0.008355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Simple Garage/Prefabs/Garage door.prefab
+  artifactKey: Guid(181bdc07ff71bac44b9f9ddfec8ec770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Garage door.prefab using Guid(181bdc07ff71bac44b9f9ddfec8ec770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5a93b20c034d8c2c54d9db5bd49c438') in 0.006328 seconds 
+  Import took 0.008409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Simple Garage/Prefabs/Machinery parts.mirror.prefab
+  artifactKey: Guid(178679abfd4f61d49bad23d7af0f6921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Machinery parts.mirror.prefab using Guid(178679abfd4f61d49bad23d7af0f6921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c7f2b01a7b2c9ec3a03d9f3d37c04fd') in 0.005689 seconds 
+  Import took 0.007655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Simple Garage/Prefabs/Bench Grinder.prefab
+  artifactKey: Guid(3d4bab21fdd292d47a71771febe12688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Bench Grinder.prefab using Guid(3d4bab21fdd292d47a71771febe12688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a3ac15e383a47f54f330a7242119343') in 0.010383 seconds 
+  Import took 0.012252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Simple Garage/Prefabs/Black suitcase.prefab
+  artifactKey: Guid(d9456855733aaff4bb6718472a06b765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Black suitcase.prefab using Guid(d9456855733aaff4bb6718472a06b765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c8e096f20d54ebfc3b29a4704afa5c1') in 0.012362 seconds 
+  Import took 0.014251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Simple Garage/Prefabs/Cone Drill Bits.prefab
+  artifactKey: Guid(8dbf5974b63bbac47b54ea7fea047018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Cone Drill Bits.prefab using Guid(8dbf5974b63bbac47b54ea7fea047018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1012f66132ff8f57774e4f7afad0c112') in 0.006200 seconds 
+  Import took 0.008051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Simple Garage/Prefabs/Socket.prefab
+  artifactKey: Guid(7c7590a172bae8b478268e25ed6de3c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Socket.prefab using Guid(7c7590a172bae8b478268e25ed6de3c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed7b90e820d1d944db60a0a83e80a30f') in 0.005486 seconds 
+  Import took 0.007223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Simple Garage/Prefabs/Carpet.prefab
+  artifactKey: Guid(5d650df9a72d0bf428421b8f2050242e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Carpet.prefab using Guid(5d650df9a72d0bf428421b8f2050242e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c116cdc652b82ede3533344c3916f9e6') in 0.007408 seconds 
+  Import took 0.009507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Simple Garage/Prefabs/Big shelf.prefab
+  artifactKey: Guid(ba1db479a16cd0b44b996dec67002477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Big shelf.prefab using Guid(ba1db479a16cd0b44b996dec67002477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5d3a8ac36444f1cd67ade216cb98ed8') in 0.015033 seconds 
+  Import took 0.017974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Simple Garage/Prefabs/Drill Bits.prefab
+  artifactKey: Guid(150266f96e133ac4ab9a9ceceecfa10e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Drill Bits.prefab using Guid(150266f96e133ac4ab9a9ceceecfa10e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37a317a71c88feed5f9f77d3eeb2243f') in 0.007808 seconds 
+  Import took 0.009803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Simple Garage/Prefabs/Drill part.prefab
+  artifactKey: Guid(62040fdf2b7ac22408fd4c102b214098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Drill part.prefab using Guid(62040fdf2b7ac22408fd4c102b214098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b660c9874e2b6abe80836d1a0cd744d') in 0.006488 seconds 
+  Import took 0.008292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Simple Garage/Prefabs/Opened locker.prefab
+  artifactKey: Guid(98f0b78d99741f84f924cf440039321e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Opened locker.prefab using Guid(98f0b78d99741f84f924cf440039321e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e86c5a9ed364516609ecb2715406956') in 0.011705 seconds 
+  Import took 0.013777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Simple Garage/Prefabs/Drill bits Lying.prefab
+  artifactKey: Guid(c3c81b5a0491f094ea289ef28f273e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Drill bits Lying.prefab using Guid(c3c81b5a0491f094ea289ef28f273e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff0c6f94d2dd8afca8ee3a84d5bbbf5c') in 0.006553 seconds 
+  Import took 0.008654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Simple Garage/Prefabs/Drilling machine.prefab
+  artifactKey: Guid(fe775836666d1904eaf68794811bf252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Drilling machine.prefab using Guid(fe775836666d1904eaf68794811bf252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da2ec29f5eb5de3a5c6c61d10f90e8dd') in 0.021473 seconds 
+  Import took 0.024509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Simple Garage/Prefabs/Machinery parts.Shock Absorber.prefab
+  artifactKey: Guid(8eb785d56f61ad04d82738d75f08ccfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Machinery parts.Shock Absorber.prefab using Guid(8eb785d56f61ad04d82738d75f08ccfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0221c9453feced626cef1e7e045816e0') in 0.005796 seconds 
+  Import took 0.007757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Simple Garage/Prefabs/Camouflage suitcase with relief.prefab
+  artifactKey: Guid(f7bdaa83bdaad934a8a4b0b9f6c4fb02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Camouflage suitcase with relief.prefab using Guid(f7bdaa83bdaad934a8a4b0b9f6c4fb02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64e12b1c0dd216b2cbfa7b03bffbe1e8') in 0.011455 seconds 
+  Import took 0.013299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Simple Garage/Prefabs/Garage.prefab
+  artifactKey: Guid(e6084503f826bbb428b1e677dc1a75d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Garage.prefab using Guid(e6084503f826bbb428b1e677dc1a75d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '234e7bbc0e5b5d49e987e519d302b851') in 0.129107 seconds 
+  Import took 0.140754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Simple Garage/Prefabs/Shelf.prefab
+  artifactKey: Guid(2ceeb8038d2f9a34287e3f566f08e1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Shelf.prefab using Guid(2ceeb8038d2f9a34287e3f566f08e1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3503c8c8ee65949ab832d65831249a2') in 0.017914 seconds 
+  Import took 0.020675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Simple Garage/Prefabs/Machinery parts.brake disc.prefab
+  artifactKey: Guid(e6ec4dc7472cb304ca343aa6fb294de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Machinery parts.brake disc.prefab using Guid(e6ec4dc7472cb304ca343aa6fb294de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '218f0c15010a6ed5023a12f963922d08') in 0.007510 seconds 
+  Import took 0.009416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Simple Garage/Prefabs/Between locker.prefab
+  artifactKey: Guid(3923707eca6425f46b79e433ed42f20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Between locker.prefab using Guid(3923707eca6425f46b79e433ed42f20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c56455adfb962bfd0f8e7d1a51fe0a30') in 0.005341 seconds 
+  Import took 0.007211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Simple Garage/Prefabs/Air conditioner.prefab
+  artifactKey: Guid(5d9e31e51999f8140a28bb843779b408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Air conditioner.prefab using Guid(5d9e31e51999f8140a28bb843779b408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '764e70372a67f4c6bcae1c7c58cd4fd6') in 0.005510 seconds 
+  Import took 0.007291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Simple Garage/Prefabs/Sponge.prefab
+  artifactKey: Guid(94025334cb888b44ba5d8864d5fe4ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Sponge.prefab using Guid(94025334cb888b44ba5d8864d5fe4ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '467483a1e33652716a592162fcc02f37') in 0.006673 seconds 
+  Import took 0.008824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Simple Garage/Prefabs/Drill Bits.001.prefab
+  artifactKey: Guid(21836529584babc44958c694331481bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/Drill Bits.001.prefab using Guid(21836529584babc44958c694331481bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8f357f78e7816f95cc924f53d12931f') in 0.005974 seconds 
+  Import took 0.008010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Simple Garage/Prefabs/White suitcase.prefab
+  artifactKey: Guid(17358fdfd9608744dbaf3c39cc5833bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Garage/Prefabs/White suitcase.prefab using Guid(17358fdfd9608744dbaf3c39cc5833bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cd203a12dfd6b499228b2133f2c85d3') in 0.011163 seconds 
+  Import took 0.013000 seconds .
+
