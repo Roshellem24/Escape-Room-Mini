@@ -23,7 +23,7 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
 
-        
+
         //keep the player in bounds
         if (transform.position.x < -xRange)
         {
@@ -51,6 +51,4 @@ public class PlayerMovement : MonoBehaviour
         }
 
     }
-
-
 }
