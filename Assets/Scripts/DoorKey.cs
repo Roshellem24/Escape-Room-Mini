@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class DoorKey : MonoBehaviour
 {
+    //the collider on the key game object has to be set to true for this script to work lol
     public bool inTrigger;
 
     void OnTriggerEnter(Collider other)
@@ -16,6 +17,8 @@ public class DoorKey : MonoBehaviour
         inTrigger = false;
     }
 
+    //If we press E the key will be destroyed and you can now open the door
+    //the first objective is complete
     void Update()
     {
         if (inTrigger)
@@ -28,6 +31,7 @@ public class DoorKey : MonoBehaviour
         }
     }
 
+    //this objective will show up on the screen so the player will know what to do
     void OnGUI()
     {
         if (inTrigger)

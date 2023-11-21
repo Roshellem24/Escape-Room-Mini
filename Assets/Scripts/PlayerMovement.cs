@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    //the speed in which it turns each direction 
     public float horizontalInput;
     public float xRange = 15;
     public float speed = 10.0f;
@@ -25,6 +26,9 @@ public class PlayerMovement : MonoBehaviour
 
 
         //keep the player in bounds
+        //this doesnt actually work I just turned the mesh colliders on for the walls
+        //works the same by keeping the player inside the room
+        // I dont really know how to make this work but it's here
         if (transform.position.x < -xRange)
         {
             transform.position = new Vector3(-xRange, transform.position.y, transform.position.z);

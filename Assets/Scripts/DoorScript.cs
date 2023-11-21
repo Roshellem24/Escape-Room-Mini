@@ -19,6 +19,7 @@ public class DoorScript : MonoBehaviour
         inTrigger = false;
     }
 
+    //Gotta use E to open and close the door
     void Update()
     {
         if (inTrigger)
@@ -44,6 +45,9 @@ public class DoorScript : MonoBehaviour
             }
         }
 
+        //The door will open on the Hinge's axis 90 degrees
+        // if its not open it will be closed how it is in its normal state
+        //the 200 is for the speed in which it opens at, we can change that if you wanna make it more creepy looking
         if (open)
         {
             var newRot = Quaternion.RotateTowards(transform.rotation, Quaternion.Euler(0.0f, -90.0f, 0.0f), Time.deltaTime * 200);
@@ -56,6 +60,9 @@ public class DoorScript : MonoBehaviour
         }
     }
 
+    //These will show on screen. It will tell the player what to do after obtaining the key
+    //After, you can open the door by pressing E 
+    //and then you can close the door if you want lol
     void OnGUI()
     {
         if (inTrigger)
